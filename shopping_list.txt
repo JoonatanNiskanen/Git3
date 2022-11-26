@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MAitoa, juustoa , leipää, makkaraa ja mansikoita
+=======
+MAitoa, juustoa , leipää, makkaraa ja mustikoita
+>>>>>>> 9c32bb746e7244eb7afbc5ea3e2b5a1ebb4c9af5
